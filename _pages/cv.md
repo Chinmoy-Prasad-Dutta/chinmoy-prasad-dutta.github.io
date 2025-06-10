@@ -8,8 +8,78 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- _____________________________________________________________________________________________ -->
 
-Education
+# Chinmoy Dutta
+
+**Location:** Silchar  
+**Email:** chinmoydutta392@gmail.com  
+**Phone:** 7002573792  
+**LinkedIn:** [Chinmoy Dutta](https://linkedin.com/in/chinmoy-dutta)  
+**GitHub:** [Chinmoy-Prasad-Dutta](https://github.com/Chinmoy-Prasad-Dutta)
+
+## Education
+
+**Master of Computer Application**  
+*Amity University* | March 2023 - Feb 2025  
+- GPA: 7.75/10.0
+- **Coursework:** Machine Learning, Design and Analysis of Algorithms, Database Management, Linux Programming, Data Analytics
+
+**BS in Physics**  
+*Assam University* | April 2018 - Jan 2022  
+- GPA: 7.6/10.0
+- **Coursework:** Calculus, Linear Algebra, Mechanics, Digital Systems and Applications, Electrical Circuit and Network
+
+## Projects
+
+### Network Intrusion Detection
+*Amity University, UP* | Dec 2024 - Jan 2025
+- Researched Recurrent Neural Networks (RNNs) to detect malicious network activities
+- Optimized model parameters and compared performance of various Neural networks
+- Proposed improvements based on current research and identified limitations
+- **Technologies:** Python, TensorFlow, LSTM, GRU, Matplotlib
+
+### UFC Fight Outcome Prediction
+*Kaggle: UFC-Prediction*
+- Pre-processed UFC fighter data using Python, Pandas, and NumPy
+- Developed a multiple linear regression model to predict winning probabilities
+- Identified key influencing factors using feature importance analysis
+- **Technologies:** Python, Scikit-Learn, Matplotlib, Regression
+
+### Online Retail Analytics
+*Kaggle: Retail-Analytics*
+- Conducted exploratory data analysis on an e-commerce dataset
+- Generated visualizations to identify sales trends and customer behavior
+- Provided actionable insights for business growth and inventory management
+- **Technologies:** Python, Matplotlib, Analytics
+
+## Certifications
+
+### Machine Learning Specialization
+*Andrew NG*
+- Trained a neural network with TensorFlow for multi-class classification
+- Utilized decision trees, random forests, and boosted trees for prediction tasks
+- Built supervised learning models (linear and logistic regression) for prediction and binary classification
+- **Certificates:** Advanced Learning Algorithm, Regression and Classification
+
+### Python and SQL Bootcamp
+*Jose Portilla, Udemy*
+- Mastered object-oriented programming (OOP) concepts and Python fundamentals
+- Gained expertise in functions, decorators, and classes
+- Learned PostgreSQL and pgAdmin 4 to execute advanced SQL queries
+- Applied logical operators and SQL JOIN commands for complex data manipulation
+- **Certificates:** Python, SQL
+
+## Technologies
+
+**Languages:** Python, SQL, TensorFlow, PyTorch, C++  
+**Technologies:** Microsoft Excel, Scikit-learn, Pandas, NumPy, BeautifulSoup, Scrapy  
+**Tools:** Git, GitHub, MS Excel, Power BI, Tableau, Docker, Terraform
+
+
+<!-- _____________________________________________________________________________________________ -->
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -62,3 +132,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
