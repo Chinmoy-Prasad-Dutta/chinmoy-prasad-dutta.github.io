@@ -2,18 +2,24 @@
 title: "Rainfall Data Visualization"
 excerpt: "Interactive Plotly visualizations analyzing rainfall patterns and trends"
 collection: portfolio
-permalink: /portfolio/rainfall-visualization/
 date: 2025-06-09
 ---
 
 # India Rainfall Descriptive Analytics Report (1901-2015)
 
 ## Interactive Dashboard
-<div style="text-align: center; margin: 20px 0;">
+<div style="text-align: center; margin: 25px 0; padding: 20px; 
+           background-color: #f8f9fa; border-radius: 10px;">
+    <p style="margin-bottom: 15px; color: #495057; font-style: italic;">
+        Explore the interactive rainfall analysis dashboard
+    </p>
     <a href="/files/visualizations/Rainfall_EDA.html" target="_blank" 
-       style="background-color: #007cba; color: white; padding: 10px 20px; 
-              text-decoration: none; border-radius: 5px;">
-        View Interactive Visualization
+       style="display: inline-block; background-color: #007cba; color: white; 
+              padding: 12px 25px; text-decoration: none; border-radius: 6px;
+              font-weight: 500; letter-spacing: 0.5px;
+              box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+              transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        🔍 Launch Interactive Dashboard
     </a>
 </div>
 
