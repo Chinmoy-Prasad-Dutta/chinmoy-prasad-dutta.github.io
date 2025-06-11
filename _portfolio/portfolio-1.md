@@ -11,7 +11,7 @@ date: 2025-06-09
 <div style="text-align: center; margin: 25px 0; padding: 20px; 
            background-color: #f8f9fa; border-radius: 10px;">
     <p style="margin-bottom: 15px; color: #495057; font-style: italic;">
-        Explore the interactive rainfall analysis dashboard
+        Explore the interactive rainfall analysis dashboard along with Code
     </p>
     <a href="/files/visualizations/Rainfall_EDA.html" target="_blank" 
        style="display: inline-block; background-color: #007cba; color: white; 
