@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 I am a Master of Computer Application student at Amity University with a strong focus on data science, machine learning, and web development. My research interests center on climate data analysis, time series forecasting, and interactive data visualization using modern computational tools.
 
 ## Research Interests
 
-- Climate Data Analysis and Forecasting
-- Time Series Analysis and Machine Learning
-- Interactive Data Visualization
+- Deep Learning and Computer Vision
+- Time Series Analysis
+- Data and Business Analytics
+- Machine Learning
 
 ## Education
 
@@ -26,11 +26,11 @@ I am a Master of Computer Application student at Amity University with a strong 
 
 ## Technical Skills
 
-**Programming Languages**: Python, HTML, JavaScript
+**Programming Languages**: Python, SQL
 **Data Analysis**: Pandas, NumPy, Scikit-learn
-**Visualization**: Plotly, Matplotlib, Interactive Dashboards
-**Machine Learning**: Prophet, K-means Clustering, Time Series Analysis
-**Web Development**: GitHub Pages, Markdown, HTML/CSS
+**Visualization**: Plotly, Matplotlib, Power BI, Excel
+**Machine Learning**: DeepLearning, CV, LSTM, Prophet, K-means Clustering, Time Series Analysis
+**Web Development**: GitHub Pages, Markdown
 
 ## Selected Projects
 
