@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "jekyll-theme-minimal"
 title                    : "Chinmoy P Dutta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chinmoy Dutta"
 description              : &description "personal description"
 url                      : https://chinmoy-prasad-dutta.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "postimage/profile.png"
   name             : "Chinmoy P Dutta"
   pronouns         : # example: "she/her"  
   bio              : "Data Science and Analytics Enthusiast"
-  location         : "Silchar, Assam"
+  location         : "Silchar, Assam (Relocate✅)"
   employer         : "Amity University"
   uri              : # URL
   email            : "chinmoydutta392@gmail.com" 
