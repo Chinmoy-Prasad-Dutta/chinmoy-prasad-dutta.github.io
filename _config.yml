@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "postimage/profile.png"
+  avatar           : "./postimage/profile.png"
   name             : "Chinmoy P Dutta"
   pronouns         : # example: "she/her"  
   bio              : "Data Science and Analytics Enthusiast"
