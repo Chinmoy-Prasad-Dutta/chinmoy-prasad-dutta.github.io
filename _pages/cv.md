@@ -25,12 +25,29 @@ redirect_from:
 - GPA: 7.75/10.0
 - **Coursework:** Machine Learning, Design and Analysis of Algorithms, Database Management, Linux Programming, Data Analytics
 
-**BS in Physics**  
+**BSc in Physics**  
 *Assam University* | April 2018 - Jan 2022  
 - GPA: 7.6/10.0
 - **Coursework:** Calculus, Linear Algebra, Mechanics, Digital Systems and Applications, Electrical Circuit and Network
 
 ## Projects
+
+### India Rainfall Pattern Analysis
+*Portfolio Project* | July 2025
+- Analyzed comprehensive rainfall dataset spanning 115 years (1901-2015) with 1,380 monthly observations
+- Examined seasonal distribution patterns revealing 75.3% monsoon dominance in annual precipitation
+- Evaluated extreme weather events including 12 years of severe droughts and excessive rainfall conditions
+- Identified strong monsoon-annual correlation (r=0.93) and declining anomaly frequency in recent decades
+- Developed predictive models forecasting 6.5% rainfall decline for 2016-2035 period
+- **Technologies:** Python, Statistical Analysis, Time Series Forecasting, Data Visualization, Climate Modeling
+
+### Electric Vehicle Data Analysis
+*Portfolio Project* | July 2025
+- Analyzed comprehensive EV registration dataset spanning 1997-2024 with 177,473 vehicles
+- Examined geographic distribution patterns across 39 counties and 468 cities
+- Evaluated market share dynamics among 40 manufacturers and 139 vehicle models
+- Identified key trends in EV adoption, range capabilities, and consumer preferences
+- **Technologies:** Python, Data Analysis, Statistical Modeling, Visualization, Market Research
 
 ### Network Intrusion Detection
 *Amity University, UP* | Dec 2024 - Jan 2025
