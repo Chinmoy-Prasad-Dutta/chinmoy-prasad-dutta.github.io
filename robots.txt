@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chinmoy-prasad-dutta.github.io/sitemap.xml
