@@ -1,0 +1,20 @@
+/* ==========================================================================
+   WEB FONTS
+   ========================================================================== */
+
+/* Geist Mono (variable) */
+@font-face {
+  font-family: "Geist Mono";
+  src: url("https://unpkg.com/geist@1.7.0/dist/fonts/geist-mono/GeistMono-Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Geist Mono";
+  src: url("https://unpkg.com/geist@1.7.0/dist/fonts/geist-mono/GeistMono-Italic%5Bwght%5D.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
